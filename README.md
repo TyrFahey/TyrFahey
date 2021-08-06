@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TyrFahey, my pronouns are they/she and I'm studying to be a front-end developer, but I like dabbling with ruby and little apps for now.
+- <strong> I’m interested in ... </strong> Ruby, Javascript, CSS, HTML, Node.js, React, and Ruby on Rails.
+- I’m looking to collaborate on ... Ruby apps, and website design!
+- How to reach me ... <a href = "mailto: tyrafahey@gmail.com">Gmail</a> or <a href = "https://discordapp.com/users/TRex#3717">my discord id</a>.
